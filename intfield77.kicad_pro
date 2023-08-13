@@ -377,7 +377,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -471,6 +471,10 @@
     [
       "b7089d4f-2cb1-4af6-9e30-9475a0be2ec5",
       ""
+    ],
+    [
+      "0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d",
+      "Matrix"
     ]
   ],
   "text_variables": {}
