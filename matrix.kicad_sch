@@ -2258,17 +2258,17 @@
     (property "Reference" "MX2" (at 40.2652 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 40.2652 38.735 0)
+    (property "Value" "Lock" (at 40.2652 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 23.495 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 23.495 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 23.495 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid badd2f39-619b-4628-9ff4-a2555c558942))
-    (pin "2" (uuid 12d34e66-770c-4581-b555-f533907f889a))
+    (pin "1" (uuid bed196b6-2d9f-45e3-ba5d-a8a222827d3b))
+    (pin "2" (uuid 312d9014-7d7b-4c6d-bf6b-54aa895c8fd0))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2287,7 +2287,7 @@
     (property "Value" "~" (at 178.435 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 175.895 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 175.895 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 175.895 73.025 90)
@@ -2299,8 +2299,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 175.895 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 85fc27c5-fac9-4084-ac0d-bf9693d59de7))
-    (pin "2" (uuid 1503e051-c426-4f4d-ae8a-b7773a0106ed))
+    (pin "1" (uuid 1ce00655-a4aa-4e53-af86-4cde5afdcba8))
+    (pin "2" (uuid c56e8518-6b12-4525-9871-b1defc2e5a76))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2316,17 +2316,17 @@
     (property "Reference" "MX52" (at 40.2652 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 40.2652 107.315 0)
+    (property "Value" "Num2" (at 40.2652 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 23.495 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 23.495 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 23.495 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid da531cb9-751d-4ce5-97eb-b7c551a85e19))
-    (pin "2" (uuid ad72d7a2-87a0-4c01-b4d0-3fb4c1b34e41))
+    (pin "1" (uuid 2cbc8cd3-9ae5-4f6f-966b-3e1c740f8cb8))
+    (pin "2" (uuid 2df8cec9-da83-497c-b2bc-c5fc9a7b9dd5))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2342,17 +2342,17 @@
     (property "Reference" "MX23" (at 127.2602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 127.2602 61.595 0)
+    (property "Value" "W" (at 127.2602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 110.49 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 110.49 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 110.49 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 056569b6-2cf3-4f8d-8593-53e2cccfbf31))
-    (pin "2" (uuid 12fd5b32-47b7-43b7-bc10-b85acca63345))
+    (pin "1" (uuid cc0e34d6-b69f-4808-9365-de424f3a443d))
+    (pin "2" (uuid f0d0bc17-e941-4786-904b-0605275f2bb8))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2371,7 +2371,7 @@
     (property "Value" "~" (at 102.235 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 99.695 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 99.695 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 99.695 73.025 90)
@@ -2383,8 +2383,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 99.695 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7f9d9d12-e7e6-4bdc-a4c2-62fcc4c7e02e))
-    (pin "2" (uuid c5776842-4995-40b9-bed4-42bb7d2db376))
+    (pin "1" (uuid 58bc32f1-dd87-4c82-9181-472d720ab0bc))
+    (pin "2" (uuid bcabedda-a72c-4acf-b2a1-53ad32b2d132))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2400,17 +2400,17 @@
     (property "Reference" "MX4" (at 101.8602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 101.8602 38.735 0)
+    (property "Value" "`" (at 101.8602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 85.09 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 85.09 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 85.09 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 1c007d97-d170-4d29-bd80-a5b2d8ec8b5f))
-    (pin "2" (uuid 2bf4001f-e1c3-4533-a5a6-bdf40db964cb))
+    (pin "1" (uuid 70a7fd6a-7626-46ca-80f9-efe652bdd541))
+    (pin "2" (uuid 13a540b2-5ca5-4643-8735-5d1fed591435))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2426,17 +2426,17 @@
     (property "Reference" "MX61" (at 190.7602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 190.7602 107.315 0)
+    (property "Value" "M" (at 190.7602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 173.99 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 173.99 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 173.99 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid ab32d80d-592b-4516-8fd0-0575efb60dd6))
-    (pin "2" (uuid cd359d9f-4f79-46cf-8910-0271cbe9371d))
+    (pin "1" (uuid d96c3265-c5c2-4cbf-8dc0-ee2d9951c076))
+    (pin "2" (uuid 7b417036-8d96-416b-92a0-8e89c2a6f830))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2452,17 +2452,17 @@
     (property "Reference" "MX63" (at 216.1602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 216.1602 107.315 0)
+    (property "Value" "." (at 216.1602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 199.39 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 199.39 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 199.39 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 45ebcadb-0c54-4cf4-894b-c7e206a97de5))
-    (pin "2" (uuid 36da6abc-f331-4834-a39b-0483c07304b6))
+    (pin "1" (uuid 562fd2ad-0612-48e0-90aa-93552f58cf25))
+    (pin "2" (uuid 1d3c6498-f2ad-4dec-99ce-aa50b4802bdb))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2481,7 +2481,7 @@
     (property "Value" "~" (at 165.735 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 163.195 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 163.195 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.195 73.025 90)
@@ -2493,8 +2493,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 163.195 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3ca53063-883b-4e50-b670-fb28616c325f))
-    (pin "2" (uuid f68607cb-9dfc-477e-aad4-b715a95aff5f))
+    (pin "1" (uuid cdce3343-3628-412e-af23-d425386a9eec))
+    (pin "2" (uuid 3f24036a-4bad-4c47-8ba1-c2068ce85a75))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2510,17 +2510,17 @@
     (property "Reference" "MX24" (at 139.9602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 139.9602 61.595 0)
+    (property "Value" "E" (at 139.9602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 123.19 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 123.19 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 123.19 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid e3afc9f8-f528-486a-b173-92ef77a73659))
-    (pin "2" (uuid a3628e54-1524-4abb-9ea9-8d8fa500a371))
+    (pin "1" (uuid 81260b93-f458-47c8-995e-1f72060ccec8))
+    (pin "2" (uuid 37f40c82-1c54-4c59-8b46-6e11f71c0945))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2536,17 +2536,17 @@
     (property "Reference" "MX32" (at 241.5602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 241.5602 61.595 0)
+    (property "Value" "[" (at 241.5602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 224.79 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 224.79 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 224.79 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 338f8b25-df86-4b39-8053-3fdd43722712))
-    (pin "2" (uuid b03578ba-41c4-474f-b95e-038d039f43c7))
+    (pin "1" (uuid 21b06581-be5b-42cb-bcd0-a3703bdeaf0b))
+    (pin "2" (uuid d573b0ea-c03f-41bd-991a-4ce432919720))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2565,7 +2565,7 @@
     (property "Value" "~" (at 27.94 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 25.4 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 25.4 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 25.4 50.165 90)
@@ -2577,8 +2577,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 25.4 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4280b737-737f-4324-a842-5eb09c0cf0c5))
-    (pin "2" (uuid 42513711-0aa3-47c9-aef1-b7b2c020095b))
+    (pin "1" (uuid 63ac56f0-ca11-448b-8e8d-7e4f61a9b804))
+    (pin "2" (uuid 845e91de-bb4f-44d5-9c66-9ed58b7ffd0d))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2594,17 +2594,17 @@
     (property "Reference" "MX30" (at 216.1602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 216.1602 61.595 0)
+    (property "Value" "O" (at 216.1602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 199.39 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 199.39 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 199.39 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 95ce46c9-b5a5-4d7a-9693-77dab315fd91))
-    (pin "2" (uuid 19585c7a-0e94-4742-b165-5feb3ace887e))
+    (pin "1" (uuid 6f30486a-f00c-4d23-8af9-04af0db33bae))
+    (pin "2" (uuid e8da8aef-0d91-4a70-921f-8b729214d33b))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2623,7 +2623,7 @@
     (property "Value" "~" (at 102.235 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 99.695 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 99.695 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 99.695 50.165 90)
@@ -2635,8 +2635,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 99.695 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 39f1e4c2-959c-4877-bac0-098676e0ff7d))
-    (pin "2" (uuid cd61e104-65f2-416c-86da-b87123422092))
+    (pin "1" (uuid fc5311ad-302c-48df-b1a1-e415a2c8b5f4))
+    (pin "2" (uuid 7401f884-8fd8-4498-8c04-3f174960ea40))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2652,17 +2652,17 @@
     (property "Reference" "MX18" (at 27.5652 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 27.5652 61.595 0)
+    (property "Value" "Num7" (at 27.5652 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 10.795 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 10.795 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 10.795 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid f8f6988a-ac8e-4207-808f-2b2c182081ee))
-    (pin "2" (uuid 94cd56b6-78c7-4066-bc78-abbab6fef5ca))
+    (pin "1" (uuid b16a3bf8-f114-4661-aff9-21ca495c1a03))
+    (pin "2" (uuid 7338ed96-2c47-4baf-b3b2-b3a3ee95e939))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2681,7 +2681,7 @@
     (property "Value" "~" (at 165.735 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 163.195 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 163.195 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.195 95.885 90)
@@ -2693,8 +2693,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 163.195 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 471904a4-a782-4b06-a4cf-3d373f383c1b))
-    (pin "2" (uuid 54c98e01-e9dc-458d-b233-cf8f86df434a))
+    (pin "1" (uuid 13964ff9-6328-49b4-bf2a-012ed87cdbff))
+    (pin "2" (uuid cde8e0b0-81a8-4e87-a0e4-97808cba8d6f))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2710,17 +2710,17 @@
     (property "Reference" "MX31" (at 228.8602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 228.8602 61.595 0)
+    (property "Value" "P" (at 228.8602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 212.09 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 212.09 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 212.09 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 08f49028-97a7-47ca-817e-425e8edd0691))
-    (pin "2" (uuid a8ce1ad7-bfad-497e-8358-1f364d90d4b0))
+    (pin "1" (uuid 093a862c-1fc7-4a5e-9813-732b4edbb22b))
+    (pin "2" (uuid fce81bd5-42f9-4718-b17c-082e8e5fc8f8))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2736,17 +2736,17 @@
     (property "Reference" "MX73" (at 211.0802 130.81 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 211.0802 133.35 0)
+    (property "Value" "RCtrl" (at 211.0802 133.35 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 194.31 137.795 0)
+    (property "Footprint" "MX_Only:MXOnly-1.25U-NoLED" (at 194.31 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 194.31 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 30504bc8-8624-484a-b43d-74349df10118))
-    (pin "2" (uuid e450420f-2c5b-494e-9d28-83c6ef2999b3))
+    (pin "1" (uuid c735b228-94d3-4deb-a9b9-10024a53c9e3))
+    (pin "2" (uuid 06dfeea7-887b-437e-b5a8-f3025789e0ea))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2762,17 +2762,17 @@
     (property "Reference" "MX51" (at 27.5652 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 27.5652 107.315 0)
+    (property "Value" "Num1" (at 27.5652 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 10.795 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 10.795 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 10.795 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 54ed9724-dd96-4d1b-99a1-6d5e6a748963))
-    (pin "2" (uuid da41fef2-569d-4c28-96bd-467677d2b49d))
+    (pin "1" (uuid 36b1152c-c5c8-4dcc-8490-5b4640d8e2da))
+    (pin "2" (uuid 056bfce5-6605-4656-a7b3-e1da4d64603c))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2791,7 +2791,7 @@
     (property "Value" "~" (at 127.635 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 125.095 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 125.095 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.095 118.745 90)
@@ -2803,8 +2803,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 125.095 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 931bd406-d182-46e5-93fd-6d71b106e9dc))
-    (pin "2" (uuid 2e895d87-93c7-4a46-9f93-69a97917a8cb))
+    (pin "1" (uuid 3bf16da6-afa2-4ab2-836d-32127e76e8b0))
+    (pin "2" (uuid 914d42c6-d349-4eef-91f0-89426ef77ede))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2820,17 +2820,17 @@
     (property "Reference" "MX43" (at 165.3602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 165.3602 84.455 0)
+    (property "Value" "G" (at 165.3602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 148.59 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 148.59 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 148.59 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 13588bce-c9e9-4f13-b786-f53836c56b83))
-    (pin "2" (uuid 8291d32a-452e-4fdb-835f-45da08f4cb0c))
+    (pin "1" (uuid a88b9d17-ec85-4766-913e-fe94d664f276))
+    (pin "2" (uuid cf5d320d-db83-4217-a9c7-44c8907e6b04))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2846,17 +2846,17 @@
     (property "Reference" "MX48" (at 228.8602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 228.8602 84.455 0)
+    (property "Value" ";" (at 228.8602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 212.09 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 212.09 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 212.09 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid a0c3b919-be88-4342-beca-c1400e83e4e7))
-    (pin "2" (uuid 6f332738-055b-4bd0-a3f3-f139e68ffdee))
+    (pin "1" (uuid 16de1c75-46dd-4f31-91cf-6f3433de782a))
+    (pin "2" (uuid 039fe69e-326d-468f-a858-1c8b8e7ba11d))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2875,7 +2875,7 @@
     (property "Value" "~" (at 203.835 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 201.295 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 201.295 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.295 95.885 90)
@@ -2887,8 +2887,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 201.295 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 93c38277-215b-43fe-81df-7839d5eceb5d))
-    (pin "2" (uuid 9fc314f2-3f34-4422-84e4-f896621f3942))
+    (pin "1" (uuid 78ebf642-ade1-4dbc-a2b6-70fe597bb376))
+    (pin "2" (uuid 5d969882-73d0-41ec-94c3-6e151eeb752f))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2907,7 +2907,7 @@
     (property "Value" "~" (at 27.94 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 25.4 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 25.4 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 25.4 73.025 90)
@@ -2919,8 +2919,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 25.4 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a46df509-3bb9-405f-b2ae-3b546f71dcea))
-    (pin "2" (uuid 1b91c67d-c059-4cdd-b067-ec8c28297aa6))
+    (pin "1" (uuid a6f15851-3378-45b5-93b1-97c601f609b5))
+    (pin "2" (uuid 2372f625-3b48-4b02-9f3d-7cc3e4d65818))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2939,7 +2939,7 @@
     (property "Value" "~" (at 216.535 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 213.995 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 213.995 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.995 50.165 90)
@@ -2951,8 +2951,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 213.995 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0fe7c81c-fd39-4cf3-97e8-22c06e4ad11e))
-    (pin "2" (uuid e538dc31-1ba0-44fb-84c8-ab2995ac9e9a))
+    (pin "1" (uuid 36eea47b-3a8a-43a9-8587-c5f62c388644))
+    (pin "2" (uuid e976b9ea-ac94-493a-8734-9ed445e6c9f5))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2968,17 +2968,17 @@
     (property "Reference" "MX60" (at 178.0602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 178.0602 107.315 0)
+    (property "Value" "N" (at 178.0602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 161.29 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 161.29 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 161.29 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid cc19549b-20e4-43a4-aaf4-b6f3eb131960))
-    (pin "2" (uuid 0657a08b-3e76-4093-817f-2327c0bd3056))
+    (pin "1" (uuid fd5ae29a-90ed-44db-8931-98c099114ba4))
+    (pin "2" (uuid f04fc26c-7843-4acf-a746-43f8a4dc9dc9))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -2997,7 +2997,7 @@
     (property "Value" "~" (at 27.94 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 25.4 144.78 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 25.4 144.78 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 25.4 144.78 90)
@@ -3009,8 +3009,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 25.4 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 718c5685-dc82-4f7e-9ffd-1f3381c20d79))
-    (pin "2" (uuid 576afece-75c3-4d28-a61f-95b13a143a0b))
+    (pin "1" (uuid b8a22298-e191-4ab6-93a6-da3368884910))
+    (pin "2" (uuid a684b29d-7e5a-4967-acee-8fe1404e1308))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3029,7 +3029,7 @@
     (property "Value" "~" (at 229.235 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 226.695 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 226.695 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.695 95.885 90)
@@ -3041,8 +3041,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 226.695 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b80cbd0a-42b9-408c-8dff-ab651e9fd0f4))
-    (pin "2" (uuid 6e5bc1b1-ce69-4e84-af43-e8ebb48a93d6))
+    (pin "1" (uuid 45ed76e9-5bf2-4185-adf5-896cc08bf951))
+    (pin "2" (uuid be6ab929-3652-46d0-9521-40226fb17eae))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3058,17 +3058,17 @@
     (property "Reference" "MX19" (at 40.2652 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 40.2652 61.595 0)
+    (property "Value" "Num8" (at 40.2652 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 23.495 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 23.495 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 23.495 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 92a5127b-5a56-47f9-9ed7-f685a2e41ab4))
-    (pin "2" (uuid 1b0f0eac-74d6-436b-91b3-c12b4ff23bdc))
+    (pin "1" (uuid d0658b96-d2eb-4603-ae99-634a8cd8066a))
+    (pin "2" (uuid a5018d3c-d7c6-406d-b404-fcfb649298b3))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3084,17 +3084,17 @@
     (property "Reference" "MX42" (at 152.6602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 152.6602 84.455 0)
+    (property "Value" "F" (at 152.6602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 135.89 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 135.89 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 135.89 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid bf1ff1ff-3e0e-4021-a2ef-937d3f172ea2))
-    (pin "2" (uuid 0fd5beff-3bec-48b3-a1f9-d4c5106c08f8))
+    (pin "1" (uuid ffc1ec82-a76c-40f0-9691-67e77f1deb95))
+    (pin "2" (uuid 8f13eddc-4b17-4577-a8b8-7f8131a886df))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3110,17 +3110,17 @@
     (property "Reference" "MX3" (at 52.9652 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 52.9652 38.735 0)
+    (property "Value" "PrtSc" (at 52.9652 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 36.195 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 36.195 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 36.195 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 01e7d421-9b54-40b8-94c1-df41aa0bfef5))
-    (pin "2" (uuid 5476a4fb-5b31-4f38-a40d-82d2b91eb1b8))
+    (pin "1" (uuid ba0cef5c-3e55-4016-9f48-e2f6d34a67f0))
+    (pin "2" (uuid 24e7e126-643c-41c9-b384-254a6de5d87b))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3139,7 +3139,7 @@
     (property "Value" "~" (at 191.135 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 188.595 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 188.595 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 188.595 73.025 90)
@@ -3151,8 +3151,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 188.595 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 740ebec6-1cb6-44a0-982a-b5e7478e2105))
-    (pin "2" (uuid 712f0729-49e8-4816-ac71-5ed32162e848))
+    (pin "1" (uuid 4f987721-0272-46f8-a28d-81666479bb89))
+    (pin "2" (uuid 20634c22-fbd0-4f1a-bef9-365f01356835))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3168,17 +3168,17 @@
     (property "Reference" "MX8" (at 152.6602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 152.6602 38.735 0)
+    (property "Value" "4" (at 152.6602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 135.89 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 135.89 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 135.89 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 0a186f66-3482-45f4-a854-f9d04137ccea))
-    (pin "2" (uuid ec66cf3e-48e6-4dbd-9b30-76572ad4af93))
+    (pin "1" (uuid 06494cf5-01dd-4d30-a1ac-d4b10843d66c))
+    (pin "2" (uuid 2aa86621-94aa-43d6-b1d1-e70603dabe50))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3197,7 +3197,7 @@
     (property "Value" "~" (at 127.635 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 125.095 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 125.095 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.095 50.165 90)
@@ -3209,8 +3209,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 125.095 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4bca9fea-d1b4-4399-96ef-69a5e50510c0))
-    (pin "2" (uuid efbacca9-df3e-4960-8dfd-1e60f38c0f2b))
+    (pin "1" (uuid 15ce7ee6-33e1-4632-9cdd-38a072e3a119))
+    (pin "2" (uuid 48a4506c-9763-4590-a11b-b06e94e9feac))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3226,17 +3226,17 @@
     (property "Reference" "MX9" (at 165.3602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 165.3602 38.735 0)
+    (property "Value" "5" (at 165.3602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 148.59 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 148.59 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 148.59 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid f2b75317-cbf0-4f93-a163-7af535c806af))
-    (pin "2" (uuid 93ed96bb-685b-43bd-b373-f5ceafc0a90e))
+    (pin "1" (uuid 0d4b0224-9320-437a-bdea-ae84d440eb86))
+    (pin "2" (uuid ddcd9071-8481-42f0-b7cb-d0cb84a2bf43))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3252,17 +3252,17 @@
     (property "Reference" "MX77" (at 266.9602 130.81 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.9602 133.35 0)
+    (property "Value" "Right" (at 266.9602 133.35 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 250.19 137.795 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 250.19 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 250.19 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 46444e83-2281-4952-b248-8524ba8b813c))
-    (pin "2" (uuid e368e4ef-61f1-41a8-854c-0e682e82ca7c))
+    (pin "1" (uuid b5a7beba-fa5c-4066-a4e7-02974f01d01b))
+    (pin "2" (uuid 61a07044-137d-476d-9002-399b0ee62d7e))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3281,7 +3281,7 @@
     (property "Value" "~" (at 241.935 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 239.395 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 239.395 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 239.395 95.885 90)
@@ -3293,8 +3293,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 239.395 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 84da7dab-609d-4ca9-8031-0ba7f2d19193))
-    (pin "2" (uuid 548d1d9d-5613-4290-902b-3f09b3d41b52))
+    (pin "1" (uuid 33f0e703-3bb2-4517-a441-3fbf4ba07118))
+    (pin "2" (uuid e908ecb5-95c2-4f46-a0c7-460bf50bddbc))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3310,17 +3310,17 @@
     (property "Reference" "MX49" (at 241.5602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 241.5602 84.455 0)
+    (property "Value" "'" (at 241.5602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 224.79 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 224.79 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 224.79 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 0dd3a0d8-cef7-45ca-b493-70ccbe437d0e))
-    (pin "2" (uuid aefb93cc-691a-41db-bfaa-10f8f3aeb925))
+    (pin "1" (uuid b74182d0-81c6-467f-8965-30fd41eb9890))
+    (pin "2" (uuid a0baa1ea-4faf-4a84-b2a9-8f98bd4db05e))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3339,7 +3339,7 @@
     (property "Value" "~" (at 216.535 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 213.995 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 213.995 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.995 73.025 90)
@@ -3351,8 +3351,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 213.995 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 694065c2-41b0-45c9-a65b-7b5e266cd2fd))
-    (pin "2" (uuid 3c2ebc77-c13f-4957-a81b-7ea600a93402))
+    (pin "1" (uuid aa32d33b-421f-47a3-a6ea-3b8ebd34b218))
+    (pin "2" (uuid 78d675b4-b3f3-424e-bd57-5e8389952aaa))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3371,7 +3371,7 @@
     (property "Value" "~" (at 203.835 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 201.295 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 201.295 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.295 118.745 90)
@@ -3383,8 +3383,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 201.295 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f329b350-b737-45c0-b1f2-b65d65f2a5e1))
-    (pin "2" (uuid 86938e94-4d00-4e5b-a76f-5f1a64a08c75))
+    (pin "1" (uuid f71ccc32-06c3-4e43-945d-076ad16b4ddf))
+    (pin "2" (uuid b1d7da37-bbc1-4184-bde1-46101a0df689))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3403,7 +3403,7 @@
     (property "Value" "~" (at 153.035 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 150.495 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 150.495 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 150.495 73.025 90)
@@ -3415,8 +3415,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 150.495 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1836314f-cc10-4044-a973-04116f14583b))
-    (pin "2" (uuid 53c53030-bacb-4bd1-9f88-80d4694eae48))
+    (pin "1" (uuid 9cf9ff87-957e-4ec8-a65f-d1a0689e9653))
+    (pin "2" (uuid ab7a9b7d-04fb-478f-86ae-b9d168e4aa8e))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3435,7 +3435,7 @@
     (property "Value" "~" (at 267.335 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 264.795 144.78 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 264.795 144.78 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 264.795 144.78 90)
@@ -3447,8 +3447,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 264.795 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 49b78050-b739-420f-8dbd-f81ac374436f))
-    (pin "2" (uuid 6098bd27-f631-4dfb-bf1b-3587f8cf8771))
+    (pin "1" (uuid f392740e-04f9-4a38-9c84-f653bf7413c7))
+    (pin "2" (uuid ffd546f2-9856-4630-a0cb-7c1e056c46ec))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3464,17 +3464,17 @@
     (property "Reference" "MX40" (at 127.2602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 127.2602 84.455 0)
+    (property "Value" "S" (at 127.2602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 110.49 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 110.49 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 110.49 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 689ccf9f-abc7-4250-9069-75f2778c3c87))
-    (pin "2" (uuid ea84a0cc-3e60-4d38-ba69-24e272180f11))
+    (pin "1" (uuid 28268d0f-08d4-45b1-80d0-08590523f3fc))
+    (pin "2" (uuid f2000eb3-c3b2-4b1c-8d2d-d8347aa29e46))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3490,17 +3490,17 @@
     (property "Reference" "MX64" (at 228.8602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 228.8602 107.315 0)
+    (property "Value" "/" (at 228.8602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 212.09 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 212.09 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 212.09 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid e8d2f282-57ea-4445-8507-eff816a03c31))
-    (pin "2" (uuid c70000cd-723f-4ddf-ae92-9caba8b9002c))
+    (pin "1" (uuid b16cbbfa-f827-4cbd-989b-541ffca23a43))
+    (pin "2" (uuid 7bfa9ff2-d9a4-4faf-a90d-50214468bb24))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3516,17 +3516,17 @@
     (property "Reference" "MX34" (at 266.9602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.9602 61.595 0)
+    (property "Value" "\\" (at 266.9602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 250.19 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1.5U-NoLED" (at 250.19 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 250.19 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid fcb45ff4-01aa-4420-ba89-d72cd1fe45b4))
-    (pin "2" (uuid e9f8dfe0-bcab-49b5-a612-cd2eaf07e8c9))
+    (pin "1" (uuid a87ee4cf-d301-482d-ae91-b664a96d0f7d))
+    (pin "2" (uuid 843cd004-f9c6-487f-97e2-3b7169f489d0))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3545,7 +3545,7 @@
     (property "Value" "~" (at 165.735 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 163.195 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 163.195 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.195 118.745 90)
@@ -3557,8 +3557,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 163.195 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c76e266c-c345-45d0-a129-2b81f004a669))
-    (pin "2" (uuid 517e867a-e0f8-45a0-a7e3-d28bb60f5997))
+    (pin "1" (uuid 2732caae-a192-4953-9ca2-43ecc40f0a29))
+    (pin "2" (uuid d64b3b3e-1f8d-467c-886a-ab5784b9b713))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3574,17 +3574,17 @@
     (property "Reference" "MX39" (at 114.5602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 114.5602 84.455 0)
+    (property "Value" "A" (at 114.5602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 97.79 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 97.79 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 97.79 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 3c6f7c48-63dd-48e5-b585-c46e3a3ef5dd))
-    (pin "2" (uuid 27a15ea3-9b38-4be7-9ecb-1e843237779e))
+    (pin "1" (uuid 5d11a419-f409-4d34-9e17-7acd4a235b54))
+    (pin "2" (uuid f9bff1e7-901a-433e-a77c-e3d6f3a485eb))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3603,7 +3603,7 @@
     (property "Value" "~" (at 241.935 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 239.395 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 239.395 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 239.395 118.745 90)
@@ -3615,8 +3615,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 239.395 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 718f99d8-ff8b-4c07-a9b7-56c2709899f0))
-    (pin "2" (uuid 3f15bce1-86af-4fa8-9624-b97cc7888595))
+    (pin "1" (uuid 960f0266-d358-473d-a6b6-79a78d0c8d6b))
+    (pin "2" (uuid f5028190-c71f-45b0-8194-22da82975084))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3632,17 +3632,17 @@
     (property "Reference" "MX16" (at 254.2602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 254.2602 38.735 0)
+    (property "Value" "=" (at 254.2602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 237.49 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 237.49 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 237.49 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid ece4a0b8-c066-431d-bf90-3805c8d088c6))
-    (pin "2" (uuid b7d39d30-4403-4586-8ec9-546dc669dc9a))
+    (pin "1" (uuid c3824838-01b2-4497-9544-f4c0067010c4))
+    (pin "2" (uuid faa7aa16-d7ae-4587-8578-153337f51d37))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3661,7 +3661,7 @@
     (property "Value" "~" (at 102.235 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 99.695 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 99.695 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 99.695 118.745 90)
@@ -3673,8 +3673,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 99.695 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e26fd1a3-7de4-46bf-a525-d40fd49d03ee))
-    (pin "2" (uuid 22967a7e-509a-442b-a818-2e3ebf203206))
+    (pin "1" (uuid 529befdb-5701-4ac9-8921-0469b7e07d54))
+    (pin "2" (uuid a2d71ab8-711c-4ddd-9400-6f4d91072a97))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3693,7 +3693,7 @@
     (property "Value" "~" (at 53.34 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 50.8 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 95.885 90)
@@ -3705,8 +3705,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 50.8 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4331ae72-e222-4bf4-a84c-2591f6607c05))
-    (pin "2" (uuid cec4eec6-378e-449f-8256-424073e7c86d))
+    (pin "1" (uuid fd453c4c-d8eb-4b23-a454-b657d52a8e63))
+    (pin "2" (uuid 7738795f-9ec8-4a10-b8b0-4171974c894d))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3722,17 +3722,17 @@
     (property "Reference" "MX15" (at 241.5602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 241.5602 38.735 0)
+    (property "Value" "-" (at 241.5602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 224.79 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 224.79 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 224.79 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid ccadae9d-0ed7-481b-a02f-9720eef59340))
-    (pin "2" (uuid 963120ff-2f3c-45f7-9860-ef8d11ed4fd0))
+    (pin "1" (uuid aa654fcf-26c3-4720-bcd7-2c12e073edbb))
+    (pin "2" (uuid e488e24c-defe-48c7-b94b-04bb0a12e170))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3751,7 +3751,7 @@
     (property "Value" "~" (at 114.935 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 112.395 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 112.395 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 112.395 50.165 90)
@@ -3763,8 +3763,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 112.395 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 29d6f022-cb4b-4f6b-8b2e-43650bf0e815))
-    (pin "2" (uuid 3a4afbb7-e1c2-46e5-9a60-ca8fa66e5482))
+    (pin "1" (uuid f58a28a7-fa87-4486-800f-31e55c534e66))
+    (pin "2" (uuid 39482cba-3f25-4888-95d7-6bd3754e7387))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3780,17 +3780,17 @@
     (property "Reference" "MX27" (at 178.0602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 178.0602 61.595 0)
+    (property "Value" "Y" (at 178.0602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 161.29 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 161.29 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 161.29 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 69730a00-1fe0-4d5f-9b9a-c67939ef59b6))
-    (pin "2" (uuid ea51260f-a757-430c-a72a-d9ff1197eb4c))
+    (pin "1" (uuid b3342019-8cd2-4e68-ad7c-d9d90bc61abc))
+    (pin "2" (uuid c702bde7-fd4a-4aeb-b950-8c7f51760cdc))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3809,7 +3809,7 @@
     (property "Value" "~" (at 203.835 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 201.295 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 201.295 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.295 73.025 90)
@@ -3821,8 +3821,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 201.295 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c1a228f2-6498-46a2-8738-6aa7d62e5826))
-    (pin "2" (uuid 832bdd43-1b12-48bb-99e0-386ccbad9646))
+    (pin "1" (uuid 1c3d8ecc-d578-4fa9-9fd3-110125f5799b))
+    (pin "2" (uuid a5c0133c-8d4b-4e41-9434-d85a7592a0b3))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3838,17 +3838,17 @@
     (property "Reference" "MX70" (at 101.8602 130.81 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 101.8602 133.35 0)
+    (property "Value" "Ctrl" (at 101.8602 133.35 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 85.09 137.795 0)
+    (property "Footprint" "MX_Only:MXOnly-1.25U-NoLED" (at 85.09 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 85.09 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 7f7e36aa-fe1d-4bdb-8686-b94956bf54a5))
-    (pin "2" (uuid d8b35bc8-3667-4746-93a8-2ce785f04151))
+    (pin "1" (uuid 09bb90ed-c96d-42e9-857f-278022b1c8ae))
+    (pin "2" (uuid 6745d86e-37e1-4c15-94d2-60fc4b0dc6b1))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3867,7 +3867,7 @@
     (property "Value" "~" (at 203.835 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 201.295 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 201.295 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 201.295 50.165 90)
@@ -3879,8 +3879,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 201.295 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3afdbd7f-c7a8-408a-9a06-b18a653a3e61))
-    (pin "2" (uuid 0e8b3355-713d-4447-b001-946b5ea62d03))
+    (pin "1" (uuid a3eb8c33-6e9c-459c-a0f7-2f0fde3a0221))
+    (pin "2" (uuid d5c173cc-cfb6-4eb4-8412-2aee7e842968))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3899,7 +3899,7 @@
     (property "Value" "~" (at 267.335 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 264.795 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 264.795 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 264.795 50.165 90)
@@ -3911,8 +3911,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 264.795 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f3fa12fa-b9d3-46ad-b078-b3b1934703d3))
-    (pin "2" (uuid c89fe1b9-d82a-467c-8c09-42e3f411257d))
+    (pin "1" (uuid fa050278-b670-4b98-8e1a-c496faef624a))
+    (pin "2" (uuid cc5a4c2b-56ed-45ab-9763-ef04137db46c))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3931,7 +3931,7 @@
     (property "Value" "~" (at 178.435 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 175.895 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 175.895 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 175.895 118.745 90)
@@ -3943,8 +3943,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 175.895 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c748a03a-42ff-4e78-a640-4c807f965a41))
-    (pin "2" (uuid 0fb1de3c-560b-464a-b885-331e57b34546))
+    (pin "1" (uuid 845f8808-feee-45f5-a44b-3d45d4c9fcd1))
+    (pin "2" (uuid 1bda8434-4687-4635-ad2a-127eab2b7e6e))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3963,7 +3963,7 @@
     (property "Value" "~" (at 229.235 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 226.695 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 226.695 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.695 50.165 90)
@@ -3975,8 +3975,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 226.695 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a2f829d7-252b-4828-9a6e-9ad2b260cae3))
-    (pin "2" (uuid 23a16a30-9cbd-4da3-87b7-1d557ffa215b))
+    (pin "1" (uuid 055ebd00-aa52-4151-a7d6-b8ad330cf57c))
+    (pin "2" (uuid f9bbe42a-b5ee-4df3-912c-a2e00695a3e6))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -3995,7 +3995,7 @@
     (property "Value" "~" (at 191.135 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 188.595 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 188.595 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 188.595 50.165 90)
@@ -4007,8 +4007,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 188.595 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 52acd0be-632a-4949-aeec-7d392a0c97f1))
-    (pin "2" (uuid b3dafcd3-ddab-4c21-b2de-67f6485860a8))
+    (pin "1" (uuid 75c095b7-0532-44d7-936c-ec5404707310))
+    (pin "2" (uuid 5ac7411c-eeac-40d6-86a6-95586ea6ee3b))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4024,17 +4024,17 @@
     (property "Reference" "MX44" (at 178.0602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 178.0602 84.455 0)
+    (property "Value" "H" (at 178.0602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 161.29 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 161.29 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 161.29 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid aba03c8a-1f1c-4136-b701-c6ec1637e119))
-    (pin "2" (uuid e91baab0-9899-4a54-8bdb-7a1ae8136431))
+    (pin "1" (uuid 31318d55-a3fa-4e66-acef-49f242555a5c))
+    (pin "2" (uuid 53710282-af65-4272-983e-9f31a1cd34a1))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4050,17 +4050,17 @@
     (property "Reference" "MX38" (at 101.8602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 101.8602 84.455 0)
+    (property "Value" "LEnter" (at 101.8602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 85.09 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1.75U-NoLED" (at 85.09 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 85.09 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid fb479aa3-27ee-4c67-880c-fde998e1230c))
-    (pin "2" (uuid df25b1cc-e066-43bc-8515-f210c93675f9))
+    (pin "1" (uuid 37ec259d-4d86-4136-a900-98d794565832))
+    (pin "2" (uuid 9a55244f-86bd-4fc2-a2c6-e9c78b258e77))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4079,7 +4079,7 @@
     (property "Value" "~" (at 114.935 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 112.395 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 112.395 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 112.395 95.885 90)
@@ -4091,8 +4091,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 112.395 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3f9e3499-7e22-4f70-8447-961356f8227c))
-    (pin "2" (uuid 6f9df318-ad20-4921-8b67-fc4155ce6e55))
+    (pin "1" (uuid 42b987be-1ec6-4306-8339-479b1f41586a))
+    (pin "2" (uuid ab92c96d-5da8-4e45-a825-b8aee2e2cae8))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4108,17 +4108,17 @@
     (property "Reference" "MX56" (at 127.2602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 127.2602 107.315 0)
+    (property "Value" "X" (at 127.2602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 110.49 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 110.49 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 110.49 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 68ce9b79-c052-45fc-a241-392a3aff7573))
-    (pin "2" (uuid 63e99c18-2701-4ee4-8424-a0056da7beea))
+    (pin "1" (uuid 3e3d103e-574d-4b07-8db9-aa2da3ceaefa))
+    (pin "2" (uuid 5c3536dd-7ed2-4192-8bb0-20393d91fd39))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4134,17 +4134,17 @@
     (property "Reference" "MX57" (at 139.9602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 139.9602 107.315 0)
+    (property "Value" "C" (at 139.9602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 123.19 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 123.19 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 123.19 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 1c0f4b7a-d513-46d2-b032-94fe242b347d))
-    (pin "2" (uuid 000750b7-9911-4c5c-b4f5-bfa612110b60))
+    (pin "1" (uuid acfad398-d551-435e-9e05-0a0a1987e457))
+    (pin "2" (uuid c985d7f4-2895-465a-8c95-7c74b6060336))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4163,7 +4163,7 @@
     (property "Value" "~" (at 140.335 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 137.795 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 137.795 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.795 118.745 90)
@@ -4175,8 +4175,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 137.795 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 64d98dc3-691f-4321-a4ec-96eabc10997b))
-    (pin "2" (uuid 6c15b33b-a5b5-43ee-aca1-3d953ebccf6b))
+    (pin "1" (uuid 9742818f-85c9-477b-a52a-c901e5d3f7e2))
+    (pin "2" (uuid 457564e8-46fe-42fd-9c14-0798db29afcd))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4195,7 +4195,7 @@
     (property "Value" "~" (at 267.335 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 264.795 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 264.795 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 264.795 73.025 90)
@@ -4207,8 +4207,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 264.795 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 753278e4-6be5-45ea-b703-4f0a69c946e9))
-    (pin "2" (uuid c4147747-8674-44f4-8576-54acb6dc60db))
+    (pin "1" (uuid ec6f77b1-d92c-4f59-bf01-bf185dd334e8))
+    (pin "2" (uuid 01d73c9e-15dd-40ce-92dc-feeb906bd437))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4224,17 +4224,17 @@
     (property "Reference" "MX58" (at 152.6602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 152.6602 107.315 0)
+    (property "Value" "V" (at 152.6602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 135.89 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 135.89 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 135.89 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 87a476fb-7b7c-4a5d-ad37-c1b3d69b8e53))
-    (pin "2" (uuid 4d8626b8-0a46-4354-9852-1a0589fbc409))
+    (pin "1" (uuid a5c20fa7-adb8-438c-95f1-f69d5278bce8))
+    (pin "2" (uuid d6364793-08cd-4d62-a25d-d95f937882ee))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4253,7 +4253,7 @@
     (property "Value" "~" (at 140.335 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 137.795 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 137.795 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.795 73.025 90)
@@ -4265,8 +4265,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 137.795 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 651a69ef-ef62-4b34-a4ef-85e8d0ca1925))
-    (pin "2" (uuid 57722bb6-3e79-491e-8684-988dd7638bf8))
+    (pin "1" (uuid b9945b53-7c4b-41ba-bd42-2d12bc50618e))
+    (pin "2" (uuid e0c1abba-8c0d-47b6-bb3f-a40fd57682d2))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4282,17 +4282,17 @@
     (property "Reference" "MX68" (at 27.5652 130.81 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 27.5652 133.35 0)
+    (property "Value" "Num0" (at 27.5652 133.35 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 10.795 137.795 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-NoLED" (at 10.795 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 10.795 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 73be9899-baa3-4e22-80fb-4e4d9f23e9be))
-    (pin "2" (uuid 6a20153e-bdaa-4841-b29b-4d05a126f4d5))
+    (pin "1" (uuid 97af8a97-4f44-4c44-888f-777b23766a64))
+    (pin "2" (uuid b6d89cde-604d-4e01-8b79-5c70885fd757))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4311,7 +4311,7 @@
     (property "Value" "~" (at 211.455 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 208.915 144.78 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 208.915 144.78 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 208.915 144.78 90)
@@ -4323,8 +4323,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 208.915 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 542c24bc-b500-4fdb-b8fc-3dec0e78bbd0))
-    (pin "2" (uuid 4510ccbe-88a7-4776-8338-6c60abcfd362))
+    (pin "1" (uuid ca6b8a83-aaf3-4cde-8bcf-476ca6160d4b))
+    (pin "2" (uuid 351a2ea6-8c4c-4d70-a18d-c337a8b47e5b))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4343,7 +4343,7 @@
     (property "Value" "~" (at 178.435 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 175.895 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 175.895 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 175.895 50.165 90)
@@ -4355,8 +4355,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 175.895 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 34763819-42f8-4f20-ad5b-7a7e571f05ea))
-    (pin "2" (uuid 6480998c-1fb0-4829-bab7-a9716ae20dd3))
+    (pin "1" (uuid ab138f63-ef3b-4f3e-97f5-2fbbc4196288))
+    (pin "2" (uuid feacfcb2-f2de-4c5e-b1c3-185ff7090f30))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4372,17 +4372,17 @@
     (property "Reference" "MX22" (at 114.5602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 114.5602 61.595 0)
+    (property "Value" "Q" (at 114.5602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 97.79 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 97.79 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 97.79 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid b9401797-271e-44fd-98ce-926a801b479f))
-    (pin "2" (uuid c2b6026f-9fe7-4314-b4e9-4fecaad778e2))
+    (pin "1" (uuid 8387888e-ebd2-4c79-a840-8b686d8857c2))
+    (pin "2" (uuid e9556ac8-0e08-47b4-a395-62bfa323a57e))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4401,7 +4401,7 @@
     (property "Value" "~" (at 153.035 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 150.495 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 150.495 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 150.495 118.745 90)
@@ -4413,8 +4413,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 150.495 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4ba195df-a6f3-4e9f-92e7-3b5807ff55eb))
-    (pin "2" (uuid a7e5ce6c-d0c7-4418-96cd-fbd8ab880b77))
+    (pin "1" (uuid 319ef381-1982-424e-95a4-c9210fd52cdc))
+    (pin "2" (uuid 05f05b7f-e7f9-455a-ac44-d57118f70dc1))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4433,7 +4433,7 @@
     (property "Value" "~" (at 122.555 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 120.015 144.78 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 120.015 144.78 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 120.015 144.78 90)
@@ -4445,8 +4445,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 120.015 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 82dedee5-2fd6-4d0f-882b-cb639caff48a))
-    (pin "2" (uuid b527e242-b2da-4ca7-9c62-0e13b2542eb2))
+    (pin "1" (uuid 76574294-3a99-40b0-a4d3-4b37da4a8c10))
+    (pin "2" (uuid f75659eb-5c78-4a0b-b343-123db39cc346))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4462,17 +4462,17 @@
     (property "Reference" "MX37" (at 52.9652 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 52.9652 84.455 0)
+    (property "Value" "Num6" (at 52.9652 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 36.195 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 36.195 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 36.195 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid a54baa2a-9278-4794-9f52-e84684069bf6))
-    (pin "2" (uuid d4eb3b9c-d458-4d41-a2f1-0f7e0af1822e))
+    (pin "1" (uuid 7a27fe2a-0406-4ced-a23b-4e18a565402e))
+    (pin "2" (uuid e21db9fd-4b37-4ee7-8270-d7159a6da246))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4488,17 +4488,17 @@
     (property "Reference" "MX26" (at 165.3602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 165.3602 61.595 0)
+    (property "Value" "T" (at 165.3602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 148.59 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 148.59 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 148.59 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid b3eddfcb-fe2b-4785-87bc-35668cf36411))
-    (pin "2" (uuid 975e4867-891e-45e3-9c57-d75e7649dcb3))
+    (pin "1" (uuid 8fa1f7f0-7126-4c87-87ca-8c017c01980c))
+    (pin "2" (uuid ea170bb9-3805-40d0-bb60-90f549c5a8c9))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4514,17 +4514,17 @@
     (property "Reference" "MX62" (at 203.4602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 203.4602 107.315 0)
+    (property "Value" "," (at 203.4602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 186.69 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 186.69 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 186.69 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid b4f5c8fa-f554-42d8-843f-aaf0947eb2ed))
-    (pin "2" (uuid 615d4b80-694a-43b7-97a7-638600cdfbca))
+    (pin "1" (uuid 5dbcadab-47a6-408c-b76e-e3faac411758))
+    (pin "2" (uuid cc1aecf5-ffdf-4847-9ee7-fc5d685126ff))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4540,17 +4540,17 @@
     (property "Reference" "MX5" (at 114.5602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 114.5602 38.735 0)
+    (property "Value" "1" (at 114.5602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 97.79 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 97.79 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 97.79 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 2fbf237f-7401-44f0-aab8-67d5e045b7c1))
-    (pin "2" (uuid cfc0d2e5-32d4-4799-9bbb-ac2ecfef8622))
+    (pin "1" (uuid 844b27b4-3004-455c-91c7-d3c0127d800e))
+    (pin "2" (uuid dcacf624-04ef-440c-b5f8-3447f1fcfc5c))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4566,17 +4566,17 @@
     (property "Reference" "MX72" (at 172.9802 130.81 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 172.9802 133.35 0)
+    (property "Value" "Space" (at 172.9802 133.35 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 156.21 137.795 0)
+    (property "Footprint" "MX_Only:MXOnly-7U-NoLED" (at 156.21 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 156.21 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 548a442f-44fe-4857-b13a-5a237cfe536a))
-    (pin "2" (uuid de6cb763-3d1d-402c-afb4-c8e41fbaf572))
+    (pin "1" (uuid a17a5d48-3933-4d28-a5f2-a4772a47d4d7))
+    (pin "2" (uuid 78fb5690-eed5-412a-973c-c6e10362dc0b))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4592,17 +4592,17 @@
     (property "Reference" "MX45" (at 190.7602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 190.7602 84.455 0)
+    (property "Value" "J" (at 190.7602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 173.99 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 173.99 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 173.99 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 427daabd-eacc-4632-b8b7-684dea21b2b7))
-    (pin "2" (uuid 63694d81-376a-44eb-a0e7-ef5b56846d15))
+    (pin "1" (uuid ee6fb1d2-2efe-452d-acbc-f870b4808d08))
+    (pin "2" (uuid 28159be0-df13-4714-924f-35b428aaf810))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4621,7 +4621,7 @@
     (property "Value" "~" (at 216.535 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 213.995 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 213.995 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.995 118.745 90)
@@ -4633,8 +4633,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 213.995 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e085fe7d-2126-424e-9046-d3d5e0c3cc2c))
-    (pin "2" (uuid 78358d87-8352-488e-b289-c93eb96a35e1))
+    (pin "1" (uuid a2337201-4294-4de6-b6b2-6f50b61b6f5d))
+    (pin "2" (uuid 96d6b9c4-c796-48e6-887d-b7094e09488b))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4653,7 +4653,7 @@
     (property "Value" "~" (at 241.935 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 239.395 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 239.395 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 239.395 73.025 90)
@@ -4665,8 +4665,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 239.395 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 243f710c-34a6-4666-aada-1aa117264ba1))
-    (pin "2" (uuid 5da77d03-8356-4e95-a64b-e1dee6a35e04))
+    (pin "1" (uuid 001814bc-503c-4b0f-8f9b-5d48fecc8c32))
+    (pin "2" (uuid fdc7f0bd-c83a-40b5-844e-049c2b461f35))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4682,17 +4682,17 @@
     (property "Reference" "MX53" (at 52.9652 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 52.9652 107.315 0)
+    (property "Value" "Num3" (at 52.9652 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 36.195 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 36.195 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 36.195 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 9600820e-1e47-4fe1-8866-a7137179e550))
-    (pin "2" (uuid 84910af4-e673-4387-9b7b-5383f2823c54))
+    (pin "1" (uuid 42a8adf6-bd0a-443c-83db-933e0b23d6cf))
+    (pin "2" (uuid bf536a7d-563e-4180-a7a2-f5245c09d237))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4708,17 +4708,17 @@
     (property "Reference" "MX17" (at 266.9602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.9602 38.735 0)
+    (property "Value" "Backspace" (at 266.9602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 250.19 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-NoLED" (at 250.19 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 250.19 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 26330a49-69f2-463c-bde6-562272a86cfa))
-    (pin "2" (uuid 3dc2e07d-522b-45b1-aba7-b43fa6678fd3))
+    (pin "1" (uuid d7414904-b58f-4eee-95ed-f2fb21e86342))
+    (pin "2" (uuid 449c7b40-6db7-4a77-a60b-52b0556a2e36))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4734,17 +4734,17 @@
     (property "Reference" "MX65" (at 241.5602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 241.5602 107.315 0)
+    (property "Value" "AltGr" (at 241.5602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 224.79 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 224.79 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 224.79 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid a25910f4-dae4-45d3-9b13-9656fca35f91))
-    (pin "2" (uuid 479297d6-4ea4-4775-94c7-41fa8d4ee6e7))
+    (pin "1" (uuid ab0d125f-eb5a-47b6-bba3-73b3fc25f06c))
+    (pin "2" (uuid 3eb6e745-286b-4bde-a1e7-f6182166cd80))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4763,7 +4763,7 @@
     (property "Value" "~" (at 127.635 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 125.095 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 125.095 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.095 95.885 90)
@@ -4775,8 +4775,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 125.095 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 72664f57-23eb-47df-ad76-c67a0d00ea3c))
-    (pin "2" (uuid 8560036f-fc48-49a5-836d-3bc89ebe0dad))
+    (pin "1" (uuid dcc461ab-5327-49dd-b825-3ea638a110a3))
+    (pin "2" (uuid 6e16b747-3e74-4750-b2fb-51543ae9247b))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4795,7 +4795,7 @@
     (property "Value" "~" (at 254.635 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 252.095 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 252.095 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.095 95.885 90)
@@ -4807,8 +4807,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 252.095 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 93f8e11b-a62d-48e7-8bb8-2dd2eae05984))
-    (pin "2" (uuid e799aadd-0df7-4409-b3b1-e0d62a199e30))
+    (pin "1" (uuid 99e847f1-d729-4464-82c7-f53bbfe72b3a))
+    (pin "2" (uuid d4b1c8ac-946c-411c-8843-cf0c97bd793f))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4824,17 +4824,17 @@
     (property "Reference" "MX29" (at 203.4602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 203.4602 61.595 0)
+    (property "Value" "I" (at 203.4602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 186.69 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 186.69 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 186.69 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid ce32de68-3d21-42b7-90d9-573048332d4b))
-    (pin "2" (uuid 4afb2b1b-0626-4432-b14b-04ea1055fed4))
+    (pin "1" (uuid 4b3f014d-b697-4b66-9a27-17481544c9c5))
+    (pin "2" (uuid b07923e1-667d-4163-8977-0206b217b794))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4850,17 +4850,17 @@
     (property "Reference" "MX71" (at 122.1802 130.81 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 122.1802 133.35 0)
+    (property "Value" "Alt" (at 122.1802 133.35 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 105.41 137.795 0)
+    (property "Footprint" "MX_Only:MXOnly-1.25U-NoLED" (at 105.41 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 105.41 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid fa398d5e-cbdd-4b12-8680-6412403d8391))
-    (pin "2" (uuid 4f2f8ee9-68eb-4c40-b82e-bffb82684d7f))
+    (pin "1" (uuid 889992f4-d5ba-4c22-80c6-07e9c15e6652))
+    (pin "2" (uuid 7bdd3eaa-5e88-49fa-89b9-1e314f40c4f8))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4879,7 +4879,7 @@
     (property "Value" "~" (at 254.635 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 252.095 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 252.095 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.095 118.745 90)
@@ -4891,8 +4891,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 252.095 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 73669015-6f78-4032-886d-b813b00eb83d))
-    (pin "2" (uuid 04861593-8b9d-490d-8a9d-1fc5e8e70e33))
+    (pin "1" (uuid 34ec2b46-b398-4fee-900d-a10ada02d040))
+    (pin "2" (uuid 65918985-1519-4357-b431-a43b4bd70a21))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4911,7 +4911,7 @@
     (property "Value" "~" (at 229.235 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 226.695 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 226.695 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.695 118.745 90)
@@ -4923,8 +4923,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 226.695 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 464ce978-5642-495f-a756-ff355acaf692))
-    (pin "2" (uuid b9c4408d-cf01-4d26-b6bd-665e5d549a8e))
+    (pin "1" (uuid f536853a-e111-4d70-b85b-93d8b27a6646))
+    (pin "2" (uuid 2879f3f5-2664-41e6-95b1-ddb0dce1fef3))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4940,17 +4940,17 @@
     (property "Reference" "MX74" (at 228.8602 130.81 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 228.8602 133.35 0)
+    (property "Value" "Fn" (at 228.8602 133.35 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 212.09 137.795 0)
+    (property "Footprint" "MX_Only:MXOnly-1.25U-NoLED" (at 212.09 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 212.09 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid f8e9c5e4-d22c-4626-a738-a790d47974a7))
-    (pin "2" (uuid 8187e6b7-1861-4fbf-a99f-72b58d262388))
+    (pin "1" (uuid bef7bccc-0ecb-47a9-84f7-fc6633d5d444))
+    (pin "2" (uuid cb19cf9e-5cb8-41bd-a264-2222fc671644))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4966,17 +4966,17 @@
     (property "Reference" "MX66" (at 254.2602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 254.2602 107.315 0)
+    (property "Value" "Up" (at 254.2602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 237.49 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 237.49 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 237.49 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 440cbd21-1ab3-46df-90a3-041ec8477fe1))
-    (pin "2" (uuid fa0ee916-843a-4731-8e17-12830375d123))
+    (pin "1" (uuid c83ab5de-085a-46c8-8388-be1c9f363615))
+    (pin "2" (uuid 28fe5403-9a83-41e7-b46d-376a4648cd8c))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -4995,7 +4995,7 @@
     (property "Value" "~" (at 140.335 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 137.795 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 137.795 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.795 95.885 90)
@@ -5007,8 +5007,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 137.795 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ed8added-56e6-4fe1-95de-47c4a6d9fc92))
-    (pin "2" (uuid 049ac10b-bce0-4348-b356-1bb59ce078d2))
+    (pin "1" (uuid c053e31e-8d51-4223-a852-21ed93661399))
+    (pin "2" (uuid 5b9168c0-7543-43b4-bc8d-0450bc0a5700))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5027,7 +5027,7 @@
     (property "Value" "~" (at 267.335 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 264.795 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 264.795 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 264.795 118.745 90)
@@ -5039,8 +5039,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 264.795 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bfd509b3-c4e3-462e-add8-7cd0a8142d61))
-    (pin "2" (uuid 7bafff2a-6d25-4bd1-8418-ce3cf247191b))
+    (pin "1" (uuid c7fcd807-0220-4612-a8d2-07202522c36b))
+    (pin "2" (uuid e596f670-20fd-492b-85e8-ba8af09b00db))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5056,17 +5056,17 @@
     (property "Reference" "MX41" (at 139.9602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 139.9602 84.455 0)
+    (property "Value" "D" (at 139.9602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 123.19 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 123.19 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 123.19 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 537085d4-2df4-4a07-9973-8ccc65c5314a))
-    (pin "2" (uuid d19980a1-a3de-43ac-89b5-598fe52a35de))
+    (pin "1" (uuid 41138620-090a-4984-97cd-8ba3081cb73b))
+    (pin "2" (uuid 2576b7ff-cfc5-4997-bf44-98e98f0db123))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5085,7 +5085,7 @@
     (property "Value" "~" (at 191.135 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 188.595 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 188.595 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 188.595 118.745 90)
@@ -5097,8 +5097,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 188.595 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 2113513f-a3e0-49ab-b6dc-8e255afa6711))
-    (pin "2" (uuid c57be584-3767-4666-8188-b2dd4b9d6d45))
+    (pin "1" (uuid 7ac09729-0055-4939-a6ef-d69b34ad5ae2))
+    (pin "2" (uuid 1d0b1f09-c07a-4a07-ac3a-d0b322bc3e16))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5117,7 +5117,7 @@
     (property "Value" "~" (at 53.34 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 50.8 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 73.025 90)
@@ -5129,8 +5129,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 50.8 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1cb8bccb-ad43-4e12-b369-23258aae8af6))
-    (pin "2" (uuid 6f802c09-618e-4cfb-adff-ef0a02618c3e))
+    (pin "1" (uuid b505c032-69dd-429e-9968-6d4ca251a65f))
+    (pin "2" (uuid f6fa5396-9ad9-4d0c-88d4-c0f1f4001dd1))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5146,17 +5146,17 @@
     (property "Reference" "MX11" (at 190.7602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 190.7602 38.735 0)
+    (property "Value" "7" (at 190.7602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 173.99 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 173.99 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 173.99 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid e29ba0d7-38b7-46b5-8e50-809ceab0fa25))
-    (pin "2" (uuid a06889fc-8c21-4e37-a038-583424e65cab))
+    (pin "1" (uuid 786af844-d705-422b-8964-bcf73f2034a3))
+    (pin "2" (uuid f8907dfa-5da1-4491-854c-bc673754e5a5))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5175,7 +5175,7 @@
     (property "Value" "~" (at 53.34 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 50.8 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 118.745 90)
@@ -5187,8 +5187,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 50.8 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a54fe3c7-326a-4b4a-be4f-3ce423d990e0))
-    (pin "2" (uuid acfd4a45-56ca-4602-836c-ccd12a1af904))
+    (pin "1" (uuid 6ed8e1e1-a4f4-4247-88ee-e0857ddadd77))
+    (pin "2" (uuid 36c70b92-0570-46ac-b7db-dce940002e45))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5204,17 +5204,17 @@
     (property "Reference" "MX50" (at 254.2602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 254.2602 84.455 0)
+    (property "Value" "Enter" (at 254.2602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 237.49 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-2.25U-NoLED" (at 237.49 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 237.49 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 5623fb93-9cea-4b5f-a146-e565f727038f))
-    (pin "2" (uuid c5509289-2539-452d-92bc-e138e9c0b25e))
+    (pin "1" (uuid 03479cdc-7c42-4ea4-9ad1-d0c7290439d6))
+    (pin "2" (uuid 0d1dcfab-d437-44b8-b49d-56281efc138c))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5230,17 +5230,17 @@
     (property "Reference" "MX7" (at 139.9602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 139.9602 38.735 0)
+    (property "Value" "3" (at 139.9602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 123.19 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 123.19 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 123.19 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 4fc4faf6-5d22-4250-91c4-893621ba15e9))
-    (pin "2" (uuid 8ca62dd4-2df8-4d76-97e6-198d4c860cf0))
+    (pin "1" (uuid 879e863c-717a-440a-a86a-40463a1c8746))
+    (pin "2" (uuid 03de6625-1201-4ef3-8e39-9cf6b28dbede))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5256,17 +5256,17 @@
     (property "Reference" "MX55" (at 114.5602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 114.5602 107.315 0)
+    (property "Value" "Z" (at 114.5602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 97.79 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 97.79 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 97.79 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 3b0b3a18-ce12-4654-bed1-344807593f8e))
-    (pin "2" (uuid a707dc32-d2cc-4d7d-95f5-44a56b91f42d))
+    (pin "1" (uuid 84ab26aa-528a-4393-9018-5d65dd754846))
+    (pin "2" (uuid 3600b3fb-4740-43f5-ba12-59a3a7e0f568))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5282,17 +5282,17 @@
     (property "Reference" "MX54" (at 101.8602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 101.8602 107.315 0)
+    (property "Value" "Shift" (at 101.8602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 85.09 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-2U-NoLED" (at 85.09 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 85.09 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid acc3e401-08ab-4928-b022-433a1ab112e4))
-    (pin "2" (uuid 04ee7b72-fe71-4415-8f5c-ccdf78f7d564))
+    (pin "1" (uuid dd57620c-9fc8-40f0-9e98-d028ec57d237))
+    (pin "2" (uuid 00d2f404-b90d-4a78-be51-770dce824446))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5308,17 +5308,17 @@
     (property "Reference" "MX36" (at 40.2652 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 40.2652 84.455 0)
+    (property "Value" "Num5" (at 40.2652 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 23.495 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 23.495 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 23.495 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 790b7bdd-7cc9-4f72-8885-cd79bd7f05b1))
-    (pin "2" (uuid 4e658480-4a2c-4308-af79-006ea1959b77))
+    (pin "1" (uuid dcf55445-e82a-47aa-b4c0-16527e467588))
+    (pin "2" (uuid 1c7249ed-3925-4bc9-a353-4885681dc50e))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5334,17 +5334,17 @@
     (property "Reference" "MX76" (at 254.2602 130.81 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 254.2602 133.35 0)
+    (property "Value" "Down" (at 254.2602 133.35 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 237.49 137.795 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 237.49 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 237.49 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 559a9f58-144c-4f42-9c7d-764554990ba2))
-    (pin "2" (uuid d2ce3d59-33d0-4e5e-baa3-76190d2ad802))
+    (pin "1" (uuid 148e8a92-21a9-48d4-9a5b-6a860d9a4380))
+    (pin "2" (uuid 59a54eed-d757-4a00-9090-e24a1054c546))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5360,17 +5360,17 @@
     (property "Reference" "MX21" (at 101.8602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 101.8602 61.595 0)
+    (property "Value" "Tab" (at 101.8602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 85.09 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1.5U-NoLED" (at 85.09 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 85.09 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 6cd5408f-00c0-4a72-bad9-c96b45e17f96))
-    (pin "2" (uuid 9b10a2fc-15c4-493b-baca-643ec66e8f49))
+    (pin "1" (uuid d10e65d7-7e5b-49c2-a1d8-79ff63cafb0a))
+    (pin "2" (uuid 4d8edb43-2395-4f12-b89f-f260a6cafda4))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5386,17 +5386,17 @@
     (property "Reference" "MX25" (at 152.6602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 152.6602 61.595 0)
+    (property "Value" "R" (at 152.6602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 135.89 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 135.89 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 135.89 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid fdf2cc35-ee72-4c2c-84f0-5822f5becbd3))
-    (pin "2" (uuid 6e4c7668-1029-43df-b151-fbfac93f2dd5))
+    (pin "1" (uuid fe3d63b2-f9a5-4242-8f51-d513920a0ed9))
+    (pin "2" (uuid 157e89b8-a07c-40f9-8ff3-b166543c9f7e))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5412,17 +5412,17 @@
     (property "Reference" "MX20" (at 52.9652 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 52.9652 61.595 0)
+    (property "Value" "Num9" (at 52.9652 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 36.195 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 36.195 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 36.195 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 45771182-23d3-4932-86c2-efc2147a7947))
-    (pin "2" (uuid 88ce47e6-691e-483b-b351-4460006b47a1))
+    (pin "1" (uuid 1c4812ac-94f2-401b-b31a-4b595eb05dd5))
+    (pin "2" (uuid abccab5c-2e9c-49d2-8262-46f44a1a1dcc))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5438,17 +5438,17 @@
     (property "Reference" "MX75" (at 241.5602 130.81 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 241.5602 133.35 0)
+    (property "Value" "Left" (at 241.5602 133.35 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 224.79 137.795 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 224.79 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 224.79 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid a0eee7f2-223a-4d81-b148-8b5d46e58955))
-    (pin "2" (uuid 3b9c3c79-a2a4-4245-8fd7-a1085a24c604))
+    (pin "1" (uuid 847908c6-62fd-4186-9ce4-1830bcaa3d18))
+    (pin "2" (uuid 21619fc3-4703-44af-a4c1-de0bac445b9e))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5467,7 +5467,7 @@
     (property "Value" "~" (at 40.64 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 38.1 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 38.1 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 38.1 50.165 90)
@@ -5479,8 +5479,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 38.1 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5a31a2b7-fc2e-4b96-9046-daa45573d795))
-    (pin "2" (uuid 96592ea0-80bf-4259-9147-0213385198f1))
+    (pin "1" (uuid 4fad65d3-c03e-444d-941a-16d126b8533e))
+    (pin "2" (uuid b17c2b97-090e-46a4-84b9-b00d4efcc7cb))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5499,7 +5499,7 @@
     (property "Value" "~" (at 53.34 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 144.78 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 50.8 144.78 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 144.78 90)
@@ -5511,8 +5511,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 50.8 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid c46b7681-2c7c-4be7-bccc-2873203329a1))
-    (pin "2" (uuid bb25c4b5-0f66-4ef3-8d87-32df29f19f8e))
+    (pin "1" (uuid 7d61582a-3680-40d6-8f9b-fe0da92e77d2))
+    (pin "2" (uuid feb98a2d-2f15-4c9c-a900-08990fed8736))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5528,17 +5528,17 @@
     (property "Reference" "MX13" (at 216.1602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 216.1602 38.735 0)
+    (property "Value" "9" (at 216.1602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 199.39 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 199.39 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 199.39 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 605f42f2-3eb2-4308-bb38-60953023eee1))
-    (pin "2" (uuid 41c136ab-0875-44c0-8ad9-75c8997630da))
+    (pin "1" (uuid 13e73584-7edb-473f-a27d-bed45776bb4f))
+    (pin "2" (uuid 56b4caf6-62f4-4d4b-ab85-60ec8352b483))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5557,7 +5557,7 @@
     (property "Value" "~" (at 53.34 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 50.8 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 50.8 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 50.8 50.165 90)
@@ -5569,8 +5569,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 50.8 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 25b1a649-2f7f-46d7-934e-56ce10acd9d9))
-    (pin "2" (uuid 16626d04-8f62-444c-94af-c66818177c83))
+    (pin "1" (uuid df0aad45-6e5c-4f49-be31-86a99302667c))
+    (pin "2" (uuid 80ddb905-8b53-491f-848b-67ad2bce08e3))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5589,7 +5589,7 @@
     (property "Value" "~" (at 40.64 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 38.1 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 38.1 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 38.1 95.885 90)
@@ -5601,8 +5601,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 38.1 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d603d994-f397-46d6-a8b2-34d5a6b8ed22))
-    (pin "2" (uuid 2b0a6308-ab4d-487c-bbb3-ee759561b169))
+    (pin "1" (uuid ba6af1b9-0e10-4fd5-a3b4-931a68914453))
+    (pin "2" (uuid 7041ae4e-f5e0-4cb0-b7f3-9de416c8f7e3))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5621,7 +5621,7 @@
     (property "Value" "~" (at 153.035 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 150.495 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 150.495 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 150.495 50.165 90)
@@ -5633,8 +5633,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 150.495 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid a24ef7ec-888a-46c4-8b69-4195456caf6f))
-    (pin "2" (uuid aace24cf-0e4a-45f0-b54b-adf33c057e53))
+    (pin "1" (uuid 3e336f27-4e71-46c6-97a1-c14630f23619))
+    (pin "2" (uuid 40876c8d-7c77-4a62-bdf0-60c493b8d80c))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5650,17 +5650,17 @@
     (property "Reference" "MX59" (at 165.3602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 165.3602 107.315 0)
+    (property "Value" "B" (at 165.3602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 148.59 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 148.59 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 148.59 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid def584e2-dc44-40a9-a814-1dd3b039ffa8))
-    (pin "2" (uuid 0df36310-905a-46ba-a720-b409b65ada04))
+    (pin "1" (uuid a8eadcf0-71dc-4ada-93c8-e333d4be2412))
+    (pin "2" (uuid 83b38a45-285c-4902-81a9-ae2e67b9cc64))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5679,7 +5679,7 @@
     (property "Value" "~" (at 173.355 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 170.815 144.78 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 170.815 144.78 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 170.815 144.78 90)
@@ -5691,8 +5691,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 170.815 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0d89e74c-77ac-4f82-ad24-a8bf6fdfeb4d))
-    (pin "2" (uuid 4270b665-eecc-4904-adc1-22ed79baa2ba))
+    (pin "1" (uuid 7b6a1b1b-805a-4486-bdc8-92d2458197b2))
+    (pin "2" (uuid 92128163-f63a-4964-aa45-3b6aa997fce0))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5711,7 +5711,7 @@
     (property "Value" "~" (at 216.535 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 213.995 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 213.995 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 213.995 95.885 90)
@@ -5723,8 +5723,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 213.995 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 0a11ef70-368f-414b-853d-e0f9acc9da6d))
-    (pin "2" (uuid 0452475c-8d65-49db-b9ab-1dd77f4a52b9))
+    (pin "1" (uuid 431a98b1-a47d-4d3a-88bc-f307383e08b0))
+    (pin "2" (uuid d517ebc1-e7e0-4ec0-9435-cf5b7698dea7))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5740,17 +5740,17 @@
     (property "Reference" "MX67" (at 266.9602 104.775 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 266.9602 107.315 0)
+    (property "Value" "Sys" (at 266.9602 107.315 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 250.19 111.76 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 250.19 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 250.19 111.76 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 492da422-14c5-4774-b8cb-2d1b3d533c6f))
-    (pin "2" (uuid c2b2edb2-b9f3-4663-96f8-0e188d927515))
+    (pin "1" (uuid 6f183ad8-0d7b-4fb6-bad5-c4dc3e17bdba))
+    (pin "2" (uuid 08a81d06-8c1a-441f-ac0d-ab4a0621383d))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5766,17 +5766,17 @@
     (property "Reference" "MX14" (at 228.8602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 228.8602 38.735 0)
+    (property "Value" "0" (at 228.8602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 212.09 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 212.09 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 212.09 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 0017d128-2be5-41bc-adcd-941fb33c440e))
-    (pin "2" (uuid f24f0b07-f2b8-4a67-97f2-6244609a5efd))
+    (pin "1" (uuid 35fa44fc-c6d7-483c-b034-ad0004664eac))
+    (pin "2" (uuid 59109ffb-39eb-4f59-99a4-3df493bfbdf9))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5795,7 +5795,7 @@
     (property "Value" "~" (at 40.64 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 38.1 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 38.1 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 38.1 73.025 90)
@@ -5807,8 +5807,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 38.1 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid d91c0f4c-47bd-43fa-a01a-391a4b92b9a3))
-    (pin "2" (uuid 38e31513-19bc-417a-90b2-5411b4980c38))
+    (pin "1" (uuid 34c50bc4-fa19-4ac9-9469-0c2075c98ec9))
+    (pin "2" (uuid fba2e8e5-6c4a-4148-b57a-01cc5bf81e7a))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5827,7 +5827,7 @@
     (property "Value" "~" (at 254.635 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 252.095 144.78 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 252.095 144.78 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.095 144.78 90)
@@ -5839,8 +5839,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 252.095 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b7334896-8352-49eb-b4e4-433ace5db582))
-    (pin "2" (uuid 75dd22d6-3beb-4feb-96a8-9319a3d51614))
+    (pin "1" (uuid 6b05fe12-9300-4784-bebf-a7c5dd7c2aa3))
+    (pin "2" (uuid 48139c84-51ee-4487-ba45-54b7c3475b64))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5859,7 +5859,7 @@
     (property "Value" "~" (at 241.935 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 239.395 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 239.395 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 239.395 50.165 90)
@@ -5871,8 +5871,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 239.395 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4cb45d53-dec4-4787-a60f-743f56034172))
-    (pin "2" (uuid 13651e46-13c2-471d-b2bd-5d586c591c67))
+    (pin "1" (uuid 0bcc9d51-c6f9-4feb-9135-baf3dbfee1c0))
+    (pin "2" (uuid 0827a719-9914-4c1e-aa82-1c149aedb961))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5891,7 +5891,7 @@
     (property "Value" "~" (at 165.735 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 163.195 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 163.195 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.195 50.165 90)
@@ -5903,8 +5903,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 163.195 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 40a5709e-529c-4b18-939f-25c5d00b0235))
-    (pin "2" (uuid 3a5ddd01-f175-4d0e-81b7-541305d9e56a))
+    (pin "1" (uuid 58a49ad5-0c79-41da-9fb2-35178ee2d1dd))
+    (pin "2" (uuid affa8290-98b0-44fb-8a8e-550c695aa190))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5923,7 +5923,7 @@
     (property "Value" "~" (at 191.135 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 188.595 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 188.595 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 188.595 95.885 90)
@@ -5935,8 +5935,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 188.595 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 42e33165-05ff-457f-b811-071e29d17ddb))
-    (pin "2" (uuid a3f46653-97f4-4b00-88e7-a279c8e6bd26))
+    (pin "1" (uuid 380e823f-6b1c-4c1c-aa26-a7f95eaf4ff5))
+    (pin "2" (uuid b350cec1-f77a-4b68-bf1e-efbd9d111f80))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5952,17 +5952,17 @@
     (property "Reference" "MX12" (at 203.4602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 203.4602 38.735 0)
+    (property "Value" "8" (at 203.4602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 186.69 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 186.69 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 186.69 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid c76a4aad-77cd-46d6-81b0-eb503e0c29f1))
-    (pin "2" (uuid f93af251-db9c-4d2b-9244-21f163bf6c29))
+    (pin "1" (uuid 1d58fecb-66b3-4ed5-af0c-c1cdbb1baae3))
+    (pin "2" (uuid aa8e0ecd-ff96-49a4-b1c2-c040cba8af74))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -5981,7 +5981,7 @@
     (property "Value" "~" (at 102.235 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 99.695 144.78 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 99.695 144.78 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 99.695 144.78 90)
@@ -5993,8 +5993,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 99.695 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b8d83395-d154-49e1-b0a5-bfa40aade49c))
-    (pin "2" (uuid ac976185-9113-4a1a-b43b-d98e9fe0ddf6))
+    (pin "1" (uuid 567f82e3-3226-411d-a12d-176a8e5bfad4))
+    (pin "2" (uuid da461c76-51b5-498a-b153-5d5b01e74467))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6013,7 +6013,7 @@
     (property "Value" "~" (at 127.635 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 125.095 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 125.095 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 125.095 73.025 90)
@@ -6025,8 +6025,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 125.095 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 612ca83e-9f37-4d99-987e-4872c75d8f60))
-    (pin "2" (uuid 1e5075f4-acf5-408d-a9fd-f7107e7387a9))
+    (pin "1" (uuid 8709ad2a-75ab-48f2-a28c-eee9fb1cd1ca))
+    (pin "2" (uuid 7bc54256-ee4c-4e2b-bb33-60a656654183))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6045,7 +6045,7 @@
     (property "Value" "~" (at 27.94 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 25.4 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 25.4 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 25.4 95.885 90)
@@ -6057,8 +6057,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 25.4 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ae2153a2-abfb-4081-9246-cce76c6a6667))
-    (pin "2" (uuid 144778ff-668b-49e0-96c9-4ddf2eaa160e))
+    (pin "1" (uuid ed2fff19-b225-4ba5-9221-552d8010313c))
+    (pin "2" (uuid db9504c4-7504-47f4-b736-4f4bf767f772))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6077,7 +6077,7 @@
     (property "Value" "~" (at 229.235 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 226.695 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 226.695 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.695 73.025 90)
@@ -6089,8 +6089,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 226.695 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 6486ba14-d20e-42c3-b377-d60e4e4a502d))
-    (pin "2" (uuid c152674e-06f0-46ba-8d74-12247df9f69c))
+    (pin "1" (uuid 32fec541-73e8-43b2-aa6d-440accbb92e3))
+    (pin "2" (uuid 8ed004ab-aa78-4865-8e31-49ec71e55033))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6109,7 +6109,7 @@
     (property "Value" "~" (at 254.635 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 252.095 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 252.095 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.095 50.165 90)
@@ -6121,8 +6121,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 252.095 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid da582386-8454-4ae1-a858-6cdf3d691b8e))
-    (pin "2" (uuid ed2a564b-8476-4704-aaec-2c8e899369e1))
+    (pin "1" (uuid 03f09332-b36d-416a-adc7-799368de7267))
+    (pin "2" (uuid 5105eec6-30bf-4ca6-b5e8-b7eca7f1717c))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6141,7 +6141,7 @@
     (property "Value" "~" (at 40.64 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 38.1 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 38.1 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 38.1 118.745 90)
@@ -6153,8 +6153,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 38.1 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 82572697-0322-45aa-abf8-d864705f2067))
-    (pin "2" (uuid 4fb6bcec-be9c-4ece-961e-bbfc7cfc517d))
+    (pin "1" (uuid 00fdcfdf-5d01-444c-a32a-16f1d3afa37d))
+    (pin "2" (uuid 33c4c8a3-09b4-4730-8d05-587a66e70ca6))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6173,7 +6173,7 @@
     (property "Value" "~" (at 102.235 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 99.695 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 99.695 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 99.695 95.885 90)
@@ -6185,8 +6185,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 99.695 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 746ae7bf-f438-4648-be97-929c9ffc5cb7))
-    (pin "2" (uuid 8b7dec0b-f463-4fed-9d2e-ca404d91e384))
+    (pin "1" (uuid 9cb766d5-62af-47a0-88be-33ebfb4f6107))
+    (pin "2" (uuid 4f54250f-42c5-4b80-a9a3-ae91d3899249))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6202,17 +6202,17 @@
     (property "Reference" "MX35" (at 27.5652 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 27.5652 84.455 0)
+    (property "Value" "Num4" (at 27.5652 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 10.795 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 10.795 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 10.795 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid a141e2df-d4a2-4b18-af48-9ef692fb37af))
-    (pin "2" (uuid 153fcdbb-c7b5-4fd3-a6c4-06de96afe018))
+    (pin "1" (uuid 83c25e99-167e-4a76-87ff-d6eba3265113))
+    (pin "2" (uuid 4ed8408c-8b78-4252-aa86-61ed1e8e8270))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6231,7 +6231,7 @@
     (property "Value" "~" (at 153.035 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 150.495 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 150.495 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 150.495 95.885 90)
@@ -6243,8 +6243,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 150.495 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 8c157796-2abe-46d8-a392-f6dcfa9d97e2))
-    (pin "2" (uuid 81d97477-ae55-4669-b1e8-0946627f8e4b))
+    (pin "1" (uuid f329096b-386c-4ee9-bb3a-a23dbf3dde3a))
+    (pin "2" (uuid a711bdca-d71e-44b9-815e-d47ede4e862a))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6263,7 +6263,7 @@
     (property "Value" "~" (at 140.335 51.435 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 137.795 50.165 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 137.795 50.165 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 137.795 50.165 90)
@@ -6275,8 +6275,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 137.795 50.165 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 899a4a04-9e70-499e-9caa-73d461d9fd11))
-    (pin "2" (uuid e8c4b440-9e13-4d00-aa7d-4382e7de9b75))
+    (pin "1" (uuid 5139817e-53cc-4b81-8649-63cbdde1ca7b))
+    (pin "2" (uuid 824f482b-d1d9-4b41-9c07-ce9fe1be94fa))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6295,7 +6295,7 @@
     (property "Value" "~" (at 114.935 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 112.395 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 112.395 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 112.395 73.025 90)
@@ -6307,8 +6307,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 112.395 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b3b3466-0f56-4008-94cb-54d99d093de2))
-    (pin "2" (uuid a537cb99-64a9-47b6-8fe3-82d90a83137d))
+    (pin "1" (uuid 810f47cd-d68b-45f5-acb3-de44b7b25a4b))
+    (pin "2" (uuid f0a60bf6-36b1-4479-8af2-4329d7301159))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6327,7 +6327,7 @@
     (property "Value" "~" (at 114.935 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 112.395 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 112.395 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 112.395 118.745 90)
@@ -6339,8 +6339,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 112.395 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 30bd3c02-a9a1-4a4c-ac0a-5dc92d24fe21))
-    (pin "2" (uuid ad7fac9b-b3d2-4c7d-91f3-56548cd99e93))
+    (pin "1" (uuid 3d9dae8f-7172-4cbe-82ea-ed043a5f3b27))
+    (pin "2" (uuid 4cd1b12d-53ea-4b73-b53b-61cf117f57bf))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6359,7 +6359,7 @@
     (property "Value" "~" (at 27.94 120.015 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 25.4 118.745 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 25.4 118.745 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 25.4 118.745 90)
@@ -6371,8 +6371,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 25.4 118.745 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4b128585-a121-47ef-9dd0-46f1570ecfae))
-    (pin "2" (uuid 1c7393eb-5e5e-4f10-a057-00d8bbbc33ab))
+    (pin "1" (uuid 4436c16c-b349-41b2-b35f-3793e03c6db7))
+    (pin "2" (uuid 5e00c708-50cd-4590-a6f3-d21bd24e6a08))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6391,7 +6391,7 @@
     (property "Value" "~" (at 241.935 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 239.395 144.78 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 239.395 144.78 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 239.395 144.78 90)
@@ -6403,8 +6403,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 239.395 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ae1fea4a-b981-4692-a2a9-8b93158525d1))
-    (pin "2" (uuid 953563e6-a960-40bf-be21-60ee52604e0c))
+    (pin "1" (uuid a3c59fd8-bafd-4410-9561-f27856477d0d))
+    (pin "2" (uuid 2d502ae6-0be6-4a8b-b3ca-f148cbd54f61))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6420,17 +6420,17 @@
     (property "Reference" "MX69" (at 52.9652 130.81 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 52.9652 133.35 0)
+    (property "Value" "Dot" (at 52.9652 133.35 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 36.195 137.795 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 36.195 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 36.195 137.795 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 0abc96bb-deb4-487b-b9fd-63dd5f1e0e6e))
-    (pin "2" (uuid 12bde2f0-5b3d-4ffa-9246-b979a340be63))
+    (pin "1" (uuid 61d5837e-e7ce-4931-8069-2b2eaf26c63f))
+    (pin "2" (uuid a589d75d-f083-4f4b-b974-7dc944746b9e))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6446,17 +6446,17 @@
     (property "Reference" "MX47" (at 216.1602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 216.1602 84.455 0)
+    (property "Value" "L" (at 216.1602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 199.39 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 199.39 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 199.39 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 89584ea2-aca2-402a-9623-8c7ea1cf2891))
-    (pin "2" (uuid e82b5438-694e-44eb-8367-70c9620fda13))
+    (pin "1" (uuid 075a239e-4320-4fe1-929f-8a46ac6574c3))
+    (pin "2" (uuid 6edd8797-66f5-4224-9abe-1372b938b45d))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6472,17 +6472,17 @@
     (property "Reference" "MX10" (at 178.0602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 178.0602 38.735 0)
+    (property "Value" "6" (at 178.0602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 161.29 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 161.29 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 161.29 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 47b5aca8-9473-40e2-a916-24de9b5a4410))
-    (pin "2" (uuid 280b8776-c689-4023-9c19-27fb80e26588))
+    (pin "1" (uuid 48e11d20-cdcc-4509-8bc5-f1602ba14334))
+    (pin "2" (uuid ddf853f7-4d7a-4140-aa59-f70f9e5d7383))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6501,7 +6501,7 @@
     (property "Value" "~" (at 229.235 146.05 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 226.695 144.78 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 226.695 144.78 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 226.695 144.78 90)
@@ -6513,8 +6513,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 226.695 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4aacfbc7-3ca6-4935-912b-0b9e3b235a99))
-    (pin "2" (uuid 2042fc79-48cc-405c-94a8-fd5bd79b6f84))
+    (pin "1" (uuid eb5a78d2-f300-464d-a5a4-a62ca1cb41b0))
+    (pin "2" (uuid f1f271b7-5400-4f67-b75b-7d5a002906f0))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6525,22 +6525,22 @@
   )
 
   (symbol (lib_id "MX_Alps_Hybrid:MX-NoLED") (at 26.67 42.545 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid f0ea2493-04ad-48a6-8951-af261b7543ee)
     (property "Reference" "MX1" (at 27.5652 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 27.5652 38.735 0)
+    (property "Value" "Esc" (at 27.5652 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 10.795 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 10.795 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 10.795 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid c07bd3fe-7bff-46b8-be88-63b39879b29a))
-    (pin "2" (uuid 96db8321-8464-4145-886a-57e34d67aba7))
+    (pin "1" (uuid 564e92e6-303c-4d09-b582-5c38577e9915))
+    (pin "2" (uuid c1fded9d-fef9-4e7a-8e53-6fc854017b2a))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6556,17 +6556,17 @@
     (property "Reference" "MX6" (at 127.2602 36.195 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 127.2602 38.735 0)
+    (property "Value" "2" (at 127.2602 38.735 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 110.49 43.18 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 110.49 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 110.49 43.18 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 62f07f0a-99e7-4e58-bd7c-02dfd3d48628))
-    (pin "2" (uuid d0ee76fb-b949-407f-a80a-7ec071e3bd97))
+    (pin "1" (uuid 0b00b43a-5b49-4833-aefb-d496d251022e))
+    (pin "2" (uuid 8ef3ed96-386e-4089-8fe8-ce3e90c36c4b))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6582,17 +6582,17 @@
     (property "Reference" "MX46" (at 203.4602 81.915 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 203.4602 84.455 0)
+    (property "Value" "K" (at 203.4602 84.455 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 186.69 88.9 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 186.69 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 186.69 88.9 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid 2a57b327-b945-489c-a221-96a4066e163c))
-    (pin "2" (uuid 8908161c-57c4-4944-a8a3-516e8afbe34b))
+    (pin "1" (uuid 6514a8af-6797-45a5-87aa-d7e1d2d05096))
+    (pin "2" (uuid 7a1207f4-fc0d-467b-a56d-ea64257a6040))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6611,7 +6611,7 @@
     (property "Value" "~" (at 254.635 74.295 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 252.095 73.025 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 252.095 73.025 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.095 73.025 90)
@@ -6623,8 +6623,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 252.095 73.025 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9b3077c0-b5c8-40d6-88fb-6c7fb815abb5))
-    (pin "2" (uuid 130f243f-2aad-41e5-b3c6-b6b6edf63010))
+    (pin "1" (uuid aab61f16-9f35-4506-b228-ec94d78b478d))
+    (pin "2" (uuid 925cc7ba-1a62-4128-8d33-4f7622e8939f))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6640,17 +6640,17 @@
     (property "Reference" "MX28" (at 190.7602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 190.7602 61.595 0)
+    (property "Value" "U" (at 190.7602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 173.99 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 173.99 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 173.99 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid e08409f4-287f-439a-8626-bc05b79e8653))
-    (pin "2" (uuid e169d284-59b1-4099-8be7-07a3927ef4da))
+    (pin "1" (uuid 18a41492-343f-4d1a-a103-41c8a977621d))
+    (pin "2" (uuid f3603e02-cbba-4e8f-9e7e-ec6afb4d464a))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6666,17 +6666,17 @@
     (property "Reference" "MX33" (at 254.2602 59.055 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "MX-NoLED" (at 254.2602 61.595 0)
+    (property "Value" "]" (at 254.2602 61.595 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "" (at 237.49 66.04 0)
+    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (at 237.49 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 237.49 66.04 0)
       (effects (font (size 1.524 1.524)) hide)
     )
-    (pin "1" (uuid a93c1e5d-ffe0-402d-9967-aef1b54062e6))
-    (pin "2" (uuid 54543d45-657e-448c-9045-53d9c1be0990))
+    (pin "1" (uuid e83103f0-78e1-40f1-8b9b-dab11f89b71d))
+    (pin "2" (uuid 249f5c58-d973-4aea-aab4-c6bbd3bf8175))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
@@ -6695,7 +6695,7 @@
     (property "Value" "~" (at 178.435 97.155 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 175.895 95.885 90)
+    (property "Footprint" "Diode_SMD:D_SOD-123" (at 175.895 95.885 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 175.895 95.885 90)
@@ -6707,8 +6707,8 @@
     (property "Sim.Pins" "1=K 2=A" (at 175.895 95.885 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid bcb932a0-bad9-4b02-8aa0-f8d1fc50ef24))
-    (pin "2" (uuid 15409d3d-f3ec-4aa2-887e-4e7f6f420dea))
+    (pin "1" (uuid b57fb4ac-a9ec-4fb6-b0b2-e67ec0ac52e1))
+    (pin "2" (uuid 2e8ea073-7f5e-40db-bfba-518172e5c849))
     (instances
       (project "intfield77"
         (path "/b7089d4f-2cb1-4af6-9e30-9475a0be2ec5/0a05c0d4-4b9a-4edd-ab4c-13bbca05d29d"
